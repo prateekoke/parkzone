@@ -1,6 +1,6 @@
 # 🅿️ ParkZone – Smart Parking Management System
 
-## Prerequisites
+## Prerequisite
 
 - **Node.js** (v16 or higher) — download from https://nodejs.org
 - **npm** (comes with Node.js)
