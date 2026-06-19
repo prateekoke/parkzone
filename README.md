@@ -1,4 +1,4 @@
-# 🅿️ ParkZone – Smart Parking Management System
+# ParkZone – Smart Parking Management System
 
 ## About
 
@@ -108,24 +108,4 @@ These features are planned for future releases to make parking management smarte
 
 ---
 
-## Deploying to Vercel
 
-This project is a static SPA built with Create React App and can be deployed to Vercel.
-
-Steps:
-
-1. Install the Vercel CLI (optional):
-
-```bash
-npm i -g vercel
-```
-
-2. From the project root run:
-
-```bash
-npm install
-npm run vercel-build
-vercel --prod
-```
-
-Vercel will run `npm run vercel-build` and serve the `build/` directory. The included `vercel.json` config ensures SPA routing.
