@@ -1,5 +1,11 @@
 # 🅿️ ParkZone – Smart Parking Management System
 
+## About
+
+**ParkZone** is a modern, user-friendly parking management system that simplifies the parking experience. It provides real-time slot availability tracking across multiple zones and floors, streamlined booking workflows, and comprehensive admin controls. Built with React and localStorage, it delivers a fast, responsive, and intuitive interface for both users and administrators to manage parking operations efficiently.
+
+---
+
 ## Prerequisite
 
 - **Node.js** (v16 or higher) — download from https://nodejs.org
@@ -81,6 +87,26 @@ The app will open automatically at **http://localhost:3000**
 - All data is stored in your browser's **localStorage** — no server needed
 - Data persists across browser refreshes
 - To reset all data, open browser DevTools → Application → Local Storage → Clear
+
+---
+
+## Future Enhancements – AI & ML Integrations
+
+ParkZone is designed for future extensibility with intelligent automation features:
+
+### 🤖 Planned AI/ML Integrations
+
+- **Predictive Occupancy Analytics** — ML models to forecast parking demand based on time, location, and historical trends
+- **Smart Slot Recommendation Engine** — AI-driven suggestions for optimal parking slots based on user preferences and proximity
+- **Automated Dynamic Pricing** — Machine learning algorithms to adjust pricing based on real-time demand and availability
+- **Anomaly Detection** — AI system to identify suspicious booking patterns and optimize slot allocation
+- **Computer Vision Integration** — Real-time vehicle detection and license plate recognition for automated entry/exit
+- **Natural Language Processing** — Chatbot support for queries and booking assistance
+- **Predictive Maintenance Alerts** — ML models to predict infrastructure maintenance needs across zones
+
+These features are planned for future releases to make parking management smarter, faster, and more efficient.
+
+---
 
 ## Deploying to Vercel
 
